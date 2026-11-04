@@ -103,7 +103,7 @@ Most bots only need normal chats & groups — this build is lighter and more sta
 
 | Role | Name |
 |------|------|
-| **Author / Maintainer** | **protik** |
+| **Author / Maintainer** | **xalman** |
 | Base | fca-nx |
 
 ## 📄 License
